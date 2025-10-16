@@ -1,0 +1,1 @@
+Git is the version control system that lets you track changes in your code, and Github is the platform that stores git repositories online
